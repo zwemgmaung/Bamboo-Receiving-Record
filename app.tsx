@@ -19,7 +19,7 @@ import * as MediaLibrary from 'expo-media-library';
 
 const logo = require('./assets/icon.png');
 
-const STORAGE_KEY = 'hollow-pipe-receiving-record:v1';
+const STORAGE_KEY = 'bamboo-receiving-record:v1';
 
 const colors = {
   primary: '#1E3A6B',
